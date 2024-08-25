@@ -82,7 +82,7 @@ body{
   margin: 0
 }
 #banner-carousel .carousel-item .carousel-info .container .banner-link-btton:hover{
-  background: linear-gradient(90deg, #7c1d18 -13.32%, #7c1d18 120.64%);
+  background: black;
 }
 
 @media only screen and (max-width:991px) {
@@ -3413,7 +3413,7 @@ ul.slick-dots li.slick-active button:after {
 }
 
 .carousel-info .container .banner-link-btton:hover {
-  background-image: linear-gradient(45deg, #7c1d18, #7c1d18, #7c1d18);
+  background-image: black;
   background-position: 75% 10%
 }
 
