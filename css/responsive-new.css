@@ -1,3 +1,10 @@
+#our-values .wrap h4 span.gradient {
+    background: linear-gradient(180deg, #31a8ff -50%, #8f5bfd 93.06%, #be27f2 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+    display: block;}
     @media only screen and  (max-width:1440px){
         #digital-laptop{
             background-size: contain;
